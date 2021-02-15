@@ -1,0 +1,19 @@
+.myButton
+{
+    color:red;
+    margin-left:700px;
+    border:2px solid black;
+    margin-top:200px;
+}
+.MyDiv
+{
+    width:400px;
+    height:400px;
+    background-color: violet;
+    margin:100px;
+}
+h1
+{
+    text-align: center;
+    color:purple; 
+}
